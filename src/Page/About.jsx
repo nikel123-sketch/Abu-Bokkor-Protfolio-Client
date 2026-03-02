@@ -71,7 +71,7 @@ const About = () => {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.1, delay: 0.2 }}
           >
-            MD NIKEL ALI
+            MD ABU BOKKOR SIDDIK
           </motion.h1>
 
           {/* Role */}
@@ -81,7 +81,7 @@ const About = () => {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.1, delay: 0.3 }}
           >
-            Frontend Developer | MERN Stack Learner
+            Frontend Developer
           </motion.h1>
 
           {/* Tilt Section */}
@@ -96,14 +96,14 @@ const About = () => {
               className="rounded-3xl"
             >
               <p className=" text-gray-300   p-5 rounded-3xl backdrop-blur-md border border-green-400 mt-3  hover:shadow-sm ">
-                Hello! I’m MD NIKEL ALI, a passionate Frontend Developer | MERN
-                Stack Learner with a strong focus on React.js. I create clean,
-                modern, and responsive web applications with an emphasis on
-                UI/UX design. I have hands-on experience in Frontend & Backend
-                development, including React, TailwindCSS, JavaScript, Node.js,
-                MongoDB, Firebase, VS Code, and Figma. I continuously explore
-                new technologies and frameworks like Next.js to enhance my
-                skills and deliver impactful, user-friendly projects.
+                Hello! MD ABU BOKKOR SIDDIK, a passionate Frontend Developer |
+                MERN Stack Learner with a strong focus on React.js. I create
+                clean, modern, and responsive web applications with an emphasis
+                on UI/UX design. I have hands-on experience in Frontend &
+                Backend development, including React, TailwindCSS, JavaScript,
+                Node.js, MongoDB, Firebase, VS Code, and Figma. I continuously
+                explore new technologies and frameworks like Next.js to enhance
+                my skills and deliver impactful, user-friendly projects.
               </p>
             </Tilt>
           </div>

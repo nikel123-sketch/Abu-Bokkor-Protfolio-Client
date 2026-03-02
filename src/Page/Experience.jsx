@@ -22,16 +22,16 @@ const Experience = () => {
   const education = [
     {
       degree: "SSC",
-      institute: "Atawri Model Pilot High School",
+      institute: "Basihir Bandar High School",
       year: "2016",
-      GPA: "4.33",
+      GPA: "4.26",
       group: "Science",
     },
     {
       degree: "HSC",
-      institute: "Mirza Golam Hafiz Degree College",
+      institute: "Dinajpur Govermment Collage",
       year: "2018",
-      GPA: "3.20",
+      GPA: "4.00",
       group: "Science",
     },
   ];
