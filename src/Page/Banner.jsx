@@ -53,7 +53,7 @@ const Banner = () => {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.1, delay: 0.2 }}
           >
-            MD NIKEL ALI
+            MD ABU BOKKOR SIDDIK
           </motion.h1>
 
           {/* Role */}
@@ -63,7 +63,7 @@ const Banner = () => {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.1, delay: 0.3 }}
           >
-            Frontend Developer | MERN Stack Learner
+            Frontend Developer
           </motion.h1>
 
           {/* Description */}
@@ -107,8 +107,8 @@ const Banner = () => {
           <div className="flex flex-col sm:flex-row gap-6 mt-10 justify-center sm:justify-start">
             {/* Download CV */}
             <motion.a
-              href="https://drive.google.com/uc?export=download&id=1slYcaW8VLtPtziyndU7BVNepSEAZN3w6"
-              download
+              // href="https://drive.google.com/uc?export=download&id=1slYcaW8VLtPtziyndU7BVNepSEAZN3w6"
+              // download
               className="relative px-7 py-3 rounded-xl font-semibold text-sm sm:text-base flex items-center justify-center gap-2 text-white overflow-hidden group"
               whileHover={{ scale: 1.08, y: -3 }}
               whileTap={{ scale: 0.95 }}
@@ -167,7 +167,7 @@ const Banner = () => {
             <div className="stat-title font-bold text-amber-500">
               Total Projects
             </div>
-            <div className="stat-value text-blue-600">7+</div>
+            <div className="stat-value text-blue-600">1+</div>
             <div className="stat-desc">Completed</div>
           </div>
 
@@ -175,14 +175,14 @@ const Banner = () => {
             <div className="stat-title text-amber-500 font-bold">
               Experience
             </div>
-            <div className="stat-value text-purple-500">1+</div>
+            <div className="stat-value text-purple-500">0.5+</div>
             <div className="stat-desc">Years Coding</div>
           </div>
           <div className="stat">
             <div className="stat-title font-bold text-amber-500">
               GitHub Repos
             </div>
-            <div className="stat-value text-green-500">65+</div>
+            <div className="stat-value text-green-500">1+</div>
             <div className="stat-desc">Public Projects</div>
           </div>
         </div>
@@ -209,7 +209,7 @@ const Banner = () => {
         whileTap={{ scale: 0.95 }}
       >
         <motion.img
-          src="https://i.ibb.co/MyZL6c1n/bannrer-img.jpg"
+          src="https://i.ibb.co.com/jPKSBC4R/bokkor.jpg"
           alt="Banner"
           className="
                     max-w-[90%] sm:max-w-[400px] md:max-w-[450px] lg:max-w-[400px]

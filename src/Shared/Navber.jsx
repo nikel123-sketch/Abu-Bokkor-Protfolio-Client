@@ -2,7 +2,7 @@ import { useState } from "react";
 import { FiDownload } from "react-icons/fi";
 import { NavLink } from "react-router";
 import { AnimatePresence, motion } from "framer-motion";
-import nikel from "../assets/md nikel ali.jpg";
+import nikel from "../assets/bokkor.png.jpg";
 const Navber = () => {
   const [open, setOpen] = useState(false);
 
@@ -42,7 +42,7 @@ const Navber = () => {
 
   return (
     <div>
-      <div className="navbar">
+      <div className="navbar bg-black">
         {/* Mobile menu */}
         <div className="navbar-start">
           {/* Premium Dropdown */}
