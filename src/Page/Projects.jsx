@@ -4,7 +4,7 @@ import Tilt from "react-parallax-tilt";
 
 const projectsData = [
   {
-    name: "ZapShift",
+    name: "working-Running",
     description:
       "Full-stack courier management system featuring role-based dashboards, real-time order tracking, and secure authentication.",
     tech: [
@@ -19,21 +19,21 @@ const projectsData = [
       "MongoDB",
       "Firebase Auth",
     ],
-    Repo: "https://github.com/nikel123-sketch/Zap-Shift-Final-Project-Client",
-    GitHup: "https://github.com/nikel123-sketch",
-    livLink: "https://zap-shift-project-server.web.app",
-    image: "https://i.ibb.co.com/yFHjTmCS/banner1.png",
+    // Repo: "https://github.com/nikel123-sketch/Zap-Shift-Final-Project-Client",
+    // GitHup: "https://github.com/nikel123-sketch",
+    // livLink: "https://zap-shift-project-server.web.app",
+    image: "https://i.ibb.co.com/jPKSBC4R/bokkor.jpg",
   },
-  {
-    name: "Next.Js Dev-Sotry (project structure)",
-    description:
-      "A fast, modern Next.js project with clean structure, App Router, nested routes, and reusable components.",
-    tech: ["HTML", "Tailwind CSS", "JavaScript", "React", "Next.js"],
-    Repo: "https://github.com/nikel123-sketch/Dev-Story-Next-Js-Fast-Project",
-    GitHup: "https://github.com/nikel123-sketch",
-    livLink: "https://dev-story-kappa.vercel.app",
-    image: "https://i.ibb.co.com/FknSDHdD/2026-02-26-15-54-45.png",
-  },
+  // {
+  //   name: "Next.Js Dev-Sotry (project structure)",
+  //   description:
+  //     "A fast, modern Next.js project with clean structure, App Router, nested routes, and reusable components.",
+  //   tech: ["HTML", "Tailwind CSS", "JavaScript", "React", "Next.js"],
+  //   Repo: "https://github.com/nikel123-sketch/Dev-Story-Next-Js-Fast-Project",
+  //   GitHup: "https://github.com/nikel123-sketch",
+  //   livLink: "https://dev-story-kappa.vercel.app",
+  //   image: "https://i.ibb.co.com/FknSDHdD/2026-02-26-15-54-45.png",
+  // },
 ];
 
 const container = {
