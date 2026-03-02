@@ -10,33 +10,33 @@ const Contact = () => {
     {
       name: "Email",
       icon: <Mail size={22} />,
-      link: "mailto:webdevelopernikel@gmail.com",
+      link: "mailto:ablifestyleworld2025@gmail.com",
     },
     {
       name: "Phone",
       icon: <Phone size={22} />,
-      link: "tel:+8801331530219",
+      link: "+9660563702085",
     },
-    {
-      name: "GitHub",
-      icon: <Github size={22} />,
-      link: "https://github.com/nikel123-sketch",
-    },
+    // {
+    //   name: "GitHub",
+    //   icon: <Github size={22} />,
+    //   link: "https://github.com/nikel123-sketch",
+    // },
     {
       name: "Facebook",
       icon: <Facebook size={22} />,
-      link: "https://www.facebook.com/nowsad.hossan.nikil.rubel",
+      link: "https://www.facebook.com/share/1K5kmppqSk/",
     },
-    {
-      name: "YouTube",
-      icon: <Youtube size={22} />,
-      link: "https://www.youtube.com/@CodeWithNowsad",
-    },
-    {
-      name: "TikTok",
-      icon: <FaTiktok size={22} />,
-      link: "https://www.tiktok.com/@code.with.nowsad",
-    },
+    // {
+    //   name: "YouTube",
+    //   icon: <Youtube size={22} />,
+    //   link: "https://www.youtube.com/@CodeWithNowsad",
+    // },
+    // {
+    //   name: "TikTok",
+    //   icon: <FaTiktok size={22} />,
+    //   link: "https://www.tiktok.com/@code.with.nowsad",
+    // },
   ];
 
   const {
@@ -56,7 +56,7 @@ const Contact = () => {
 💬 Message: ${data.comment}
     `;
 
-    const whatsappNumber = "8801331530219";
+    const whatsappNumber = "";
     const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
       message,
     )}`;

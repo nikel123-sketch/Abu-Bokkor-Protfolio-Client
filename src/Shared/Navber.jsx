@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FiDownload } from "react-icons/fi";
-import { NavLink } from "react-router";
+import { Link, NavLink } from "react-router";
 import { AnimatePresence, motion } from "framer-motion";
 import nikel from "../assets/bokkor.png.jpg";
 const Navber = () => {
@@ -138,13 +138,14 @@ const Navber = () => {
         {/* Download CV */}
         <div className="navbar-end">
           <a
-            href="https://drive.google.com/uc?export=download&id=1slYcaW8VLtPtziyndU7BVNepSEAZN3w6"
+            // href="https://drive.google.com/uc?export=download&id=1slYcaW8VLtPtziyndU7BVNepSEAZN3w6"
             className="btn bg-blue-600 text-white hover:bg-blue-800 border-none px-5 py-2 rounded-lg shadow-lg flex items-center gap-2"
           >
             <FiDownload className="w-5 h-5" />
             Download CV
           </a>
         </div>
+       
       </div>
     </div>
   );

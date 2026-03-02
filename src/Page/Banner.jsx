@@ -1,20 +1,24 @@
 import React from "react";
 import { motion } from "framer-motion";
 import facebook from "../assets/facebook.png";
+import whatsapp from "../assets/whatsapp.png";
+import youtube from "../assets/youtube.png";
+import tiktok from "../assets/tiktok.png";
+import email from "../assets/email.png";
 import { Link } from "react-router";
 import { FiDownload } from "react-icons/fi";
 import Tilt from "react-parallax-tilt";
 const icons = [
   {
     icon: facebook,
-    link: "https://www.facebook.com/profile.php?id=61585944509199",
+    link: "https://www.facebook.com/share/1K5kmppqSk/",
   },
-  // { icon: whatsapp, link: "" },
+  { icon: whatsapp, link: "" },
   // { icon: linkdin, link: "https://www.linkedin.com/in/md-nikel-ali-34731a3ab" },
-//   { icon: githup, link: "https://github.com/nikel123-sketch" },
-  // { icon: email, link: "mailto:webdevelopernikel@gmail.com" },
-//   { icon: youtube, link: "https://www.youtube.com/@CodeWithNowsad" },
-//   { icon: tiktok, link: "https://www.tiktok.com/@code.with.nowsad" },
+  //   { icon: githup, link: "https://github.com/nikel123-sketch" },
+  { icon: email, link: "mailto:ablifestyleworld2025@gmail.com" },
+  // { icon: youtube, link: "https://www.youtube.com/@CodeWithNowsad" },
+  // { icon: tiktok, link: "https://www.tiktok.com/@code.with.nowsad" },
 ];
 
 const Banner = () => {
