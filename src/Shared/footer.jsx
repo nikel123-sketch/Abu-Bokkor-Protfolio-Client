@@ -15,7 +15,7 @@ const Footer = () => {
       {/* Social Icons */}
       <div className="flex justify-center gap-6 text-3xl mb-6">
         <a
-          href="https://www.facebook.com/nowsad.hossan.nikil.rubel"
+          href="https://www.facebook.com/share/1K5kmppqSk/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-cyan-400 transition"
@@ -23,14 +23,14 @@ const Footer = () => {
           <FaFacebook />
         </a>
 
-        <a
+        {/* <a
           href="https://github.com/nikel123-sketch"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-cyan-400 transition"
         >
           <FaGithub />
-        </a>
+        </a> */}
 
         {/* <a
           href="https://www.linkedin.com/feed/"
