@@ -22,7 +22,7 @@ const Experience = () => {
   const education = [
     {
       degree: "SSC",
-      institute: "Basihir Bandar High School",
+      institute: "Bhushir Bandar High School",
       year: "2016",
       GPA: "4.26",
       group: "Science",
