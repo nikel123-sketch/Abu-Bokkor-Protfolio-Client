@@ -27,7 +27,7 @@ const About = () => {
           whileTap={{ scale: 0.95 }}
         >
           <motion.img
-            src="https://i.ibb.co.com/jPKSBC4R/bokkor.jpg"
+            src="https://i.ibb.co.com/jvjjR9BN/bokkor.jpg"
             alt="Banner"
             className="sm:max-w-[400px] md:max-w-[450px] lg:max-w-[400px] rounded-4xl bg-gradient-to-br from-cyan-300 via-purple-400 to-pink-900
                     p-1  "

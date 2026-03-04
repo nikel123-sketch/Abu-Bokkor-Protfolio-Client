@@ -213,7 +213,7 @@ const Banner = () => {
         whileTap={{ scale: 0.95 }}
       >
         <motion.img
-          src="https://i.ibb.co.com/jPKSBC4R/bokkor.jpg"
+          src="https://i.ibb.co.com/jvjjR9BN/bokkor.jpg"
           alt="Banner"
           className="
                     max-w-[90%] sm:max-w-[400px] md:max-w-[450px] lg:max-w-[400px]
