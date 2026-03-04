@@ -171,7 +171,7 @@ const Banner = () => {
             <div className="stat-title font-bold text-amber-500">
               Total Projects
             </div>
-            <div className="stat-value text-blue-600">1+</div>
+            <div className="stat-value text-blue-600">5+</div>
             <div className="stat-desc">Completed</div>
           </div>
 
